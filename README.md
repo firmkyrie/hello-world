@@ -1,3 +1,2 @@
 # hello-world
-If one and one, then two. 
-Angin.
+我的第一个仅用于学习仓库。
