@@ -1,0 +1,3 @@
+verified 验证
+revert 恢复
+preview 预览
